@@ -1,6 +1,6 @@
-🥘 Taylor’s Kitchen Helper
+ Kitchen Helper
 
-A React-based recipe application designed for busy professionals like Taylor who want quick, stress-free guidance in the kitchen. Search recipes by ingredient, filter by mood/diet, or get a surprise recipe with a single click.
+A React-based recipe application designed for busy professionals, who want quick, stress-free guidance in the kitchen. Search recipes by ingredient, filter by mood/diet, or get a surprise recipe with a single click.
 
 🔹 Features
 
